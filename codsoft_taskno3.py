@@ -22,4 +22,4 @@ while True:
  if program=="n":
     break
  
-print("Thankyou!")
+print("Thanku!")
